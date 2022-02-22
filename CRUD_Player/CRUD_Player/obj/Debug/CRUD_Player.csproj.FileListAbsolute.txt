@@ -1,0 +1,11 @@
+C:\programas\CRUD_Player\CRUD_Player\obj\Debug\CRUD_Player.csprojAssemblyReference.cache
+C:\programas\CRUD_Player\CRUD_Player\obj\Debug\CRUD_Player.Properties.Resources.resources
+C:\programas\CRUD_Player\CRUD_Player\obj\Debug\CRUD_Player.csproj.GenerateResource.cache
+C:\programas\CRUD_Player\CRUD_Player\bin\Debug\CRUD_Player.exe.config
+C:\programas\CRUD_Player\CRUD_Player\bin\Debug\CRUD_Player.exe
+C:\programas\CRUD_Player\CRUD_Player\bin\Debug\CRUD_Player.pdb
+C:\programas\CRUD_Player\CRUD_Player\obj\Debug\CRUD_Player.exe
+C:\programas\CRUD_Player\CRUD_Player\obj\Debug\CRUD_Player.pdb
+C:\programas\CRUD_Player\CRUD_Player\obj\Debug\CRUD_Player.FormPrincipal.resources
+C:\programas\CRUD_Player\CRUD_Player\bin\Debug\DbJogador.mdf
+C:\programas\CRUD_Player\CRUD_Player\bin\Debug\DbJogador_log.ldf
